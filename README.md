@@ -38,4 +38,6 @@ In the interface you should be able to enter a number of simulations and choose 
 to change the door. Then be able to press a button that starts the simulation by calling backend that performs the requested
 included in the assignment. Make sure to structure your solution as you would in a professional situation. Good luck!
 
-<img width="1491" alt="ConsoleOutput" src="https://github.com/ssolanke/MontyHall/assets/42320298/cc9936b8-0ae3-470b-be44-5ec86d8498f1">
+Run the Application to open the Game console and enter the inputs as below in the Teminal/CLI.
+<img width="1525" alt="Screenshot 2024-02-05 at 3 43 14 PM" src="https://github.com/ssolanke/MontyHall/assets/42320298/7a334c3f-4810-4036-a043-6367bec068f1">
+
